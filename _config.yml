@@ -10,10 +10,10 @@ author: "Barbazzo Fernap"
 #Target date in UTC / GMT
 countdown:
   theme: red
-  year: 2025
-  month: 7
+  year: 2026
+  month: 1
   day: 1
-  hour: 19
+  hour: 0
   minute: 0
 
 # Site owner
@@ -21,7 +21,7 @@ owner:
   name: "Zork Network developers"
   email: "admin@zork.network"
   twitter: "zorkcoin"
-  discord: "gmpSzpqCDh"
+  discord: "Wxc8GcHaT7"
   github: "ZorkNetwork"
   aboutlink:
     url: "mailto:admin@zork.network"
