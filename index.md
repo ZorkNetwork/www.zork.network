@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Zork Network™"
-excerpt: "Zorkcoin Testnet Development Ongoing"
+excerpt: "Zorkcoin™ Testnet Development Ongoing"
 ---
 # Testnet in development
 Zork Network™ and [Zorkcoin™](www.zorkcoin.com) will progress to a testnet. Official main network

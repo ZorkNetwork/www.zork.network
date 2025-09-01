@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Zork Network developers
+Copyright (c) 2025 Zork Network™ developers
 Copyright (c) 2015 by yonojoy (https://github.com/yonojoy)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

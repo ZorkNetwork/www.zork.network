@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Zork Network"
-description: "The Zork Network is Coming Soon!"
+title: "Zork Network™"
+description: "The Zork Network™ is Coming Soon!"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -18,7 +18,7 @@ countdown:
 
 # Site owner
 owner:
-  name: "Zork Network developers"
+  name: "Zork Network™ developers"
   email: "admin@zork.network"
   twitter: "zorkcoin"
   discord: "Wxc8GcHaT7"
